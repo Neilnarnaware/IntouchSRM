@@ -1,0 +1,2 @@
+# IntouchSRM
+SRM university has various portals made available for the students. These portals are related to attendance ,placement ,fee cart etc. Intouch is an application which binds all the portals together at one platform. Hence it makes using the portals much easier and handy. The plus point is that we can use partial parts of the application offline ,hence making it really easy for the user to access the data even if there is no Internet Connection.
